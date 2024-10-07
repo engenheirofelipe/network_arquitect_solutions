@@ -1,0 +1,80 @@
+Dado : Elemento  que por si só não tem contexto.
+Dados tratados : Dados tratados servem para tomar decisões.
+Informação: Dados contextualizados.
+
+Servidores :
+
+Computador que fornece serviços.
+
+Computador com grande capacidade de processamento e armazenamento e armazenamento.
+
+Distro: Versões do linux . CentOS. KaliLinux (Pentest)
+
+Servidor Apache, é um servidor web :Traz a cópia do site para o usuário . Gerencia as páginas web
+
+Protocolo:São regras de Comunicação
+Exemplo: HTTP.
+
+Portas de comunicação :
+
+Wifi heat map : Mapeia a onda de calor gerado pelo roteador.
+
+Latência, tempo que leva para uma informação ir e voltar. 
+
+- ping www.google.com
+
+TTL - Time to live
+ É a quantidade de tempo ou de saltos pelo qual se estabelece que um pacote deve existir dentro de uma rede antes de
+ ser descartado por um roteador. O ttl também é usado em outros contextos, inclindo o armazenamento em caches da CDN e armazenamentos em cache de DNS.
+ 
+
+Tracert: Rastrear a rota do pacote. 
+
+http : Sem criptografia.
+https : Com criptografia.
+
+Redes de computadores :
+
+    A finalidade de uma rede é trocar dados. 
+
+    As redes surgiram em 1960 para conectar grandes computadores, com a finalidade de trocar dados entre eles e compartilhar recursos computacionais
+    como processador e dispositivos de armazenamento de dados.
+
+Nome da primeira rede
+    ARPANET: Rede militar.
+    INTERNET: REDE PÚBLICA.
+
+    sha256 : Tipo de criptografia atual
+    Criptografia 
+        Cripto: Esconder.
+        Grafia:Escrita.
+    
+    A criptografia começou com Julio Cesar que tinha generais para definir estratégia de guerra. Quando generais trocavam mensagens com outros generais.
+    Mas a mensagem não era escrita da forma normal. Trocava a posição das letras  do alfabeto. Cifra de Cesar 
+
+    Wireshark : Analise o tráfego de uma rede.
+
+Redes de comunicação :
+
+    Foco em serviços. Celular, dispositivos
+    Essa conectividade deu origem à internet das coisas (IOT)
+
+    IOT : Hoje, fazemos uso das redes de comunicação a partir dos mais diversos dispositivos que possuem algum recurso 
+    computacional ou tecnologia capaz de receber e de transmitir dados.
+
+    Todo dispositivo ele está na internet e ele tem o endereço lógico.
+
+    Ip público : Consegue acessar de qualquer lugar do planeta
+    Ip privado : Para acessar ele é preciso entrar dentro de um ip público
+
+    IPV4 : Números decimais
+    IPV6 :  Hexadecimais
+
+    DNS : Domain Name System : Converte nomes de  domínios em IP.
+
+    Wareables : 
+
+    Rede PAN : REDE DE ÁREA PESSOAL. Redes para dispositivos wereables. Fone de ouvido, smart watch, celular . É uma rede exclusiva, que conectas dipositivos pessoais.
+
+
+

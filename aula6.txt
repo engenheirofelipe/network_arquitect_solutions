@@ -1,0 +1,15 @@
+Aula 6 - Redes.
+
+Modelo OSI: 7 camadas (FERTSAA). É o modelo referência no mundo.
+TCP/IP: 4  camadas (RITA)
+Aplicação, Transporte, Acesso a rede, internet.
+Padrões em camadas
+
+DHCP : Dinamic Host Configuration Protocol.  É responsável por identificar a idetificação das máquinas e mandar os ips para as maquina. O roteador entrega a configuração de forma automática.
+
+O servidor precisa ter ip estático.
+
+DNS : Domain Name Serve . 
+
+Além de receber o ip do dhcp a maquina recebe  o ip do dns
+

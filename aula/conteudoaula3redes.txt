@@ -1,0 +1,25 @@
+Armazenamento
+
+    No computador a menor unidade de armazenamento é o bit, binary digit (0,1)
+
+     8 bits > 1 bytes
+     1024 Bytes >  1 Kbyte
+     1024 Kytes > 1 MegaByte
+     1024 MegaBytes > 1 GigaByte
+     1024 GigaBytes > 1 TeraByte
+     1024 TeraByte > 1 PetaByte 
+     1024  PetaByte >  1 ExaByte 
+     1024 ExaByte  > 1 ZettaByte  
+     1024 ExaByte  > 1 YottaByte  
+
+     Equipamentos iguais em rede, usa o cabo trançado.
+
+Tudo em rede é protocolo.
+        
+    O protocolo que testa a conexão de duas máquinas se chama ICMP
+
+Switch tem duas setas apontadas para fora e é retangular. Liga os computadores em uma rede, distribui a rede. O switch vai se comunicar com o roteador
+
+    2960 - 
+
+Roteador duas setas pra dentro duas pra fora e é redondo
